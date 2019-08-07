@@ -1,0 +1,17 @@
+U:\Users\739414\Assgame\Assgame\Assgame\obj\Debug\Assgame.csprojAssemblyReference.cache
+U:\Users\739414\Assgame\Assgame\Assgame\obj\Debug\Assgame.csproj.CoreCompileInputs.cache
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\Assgame.exe.config
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\Assgame.exe
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\Assgame.pdb
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\EntityFramework.dll
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\EntityFramework.SqlServer.dll
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\System.Data.SQLite.dll
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\System.Data.SQLite.EF6.dll
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\System.Data.SQLite.Linq.dll
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\EntityFramework.xml
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\EntityFramework.SqlServer.xml
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\System.Data.SQLite.xml
+U:\Users\739414\Assgame\Assgame\Assgame\bin\Debug\System.Data.SQLite.dll.config
+U:\Users\739414\Assgame\Assgame\Assgame\obj\Debug\Assgame.csproj.CopyComplete
+U:\Users\739414\Assgame\Assgame\Assgame\obj\Debug\Assgame.exe
+U:\Users\739414\Assgame\Assgame\Assgame\obj\Debug\Assgame.pdb
