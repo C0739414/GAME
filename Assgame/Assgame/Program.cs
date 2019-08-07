@@ -189,8 +189,9 @@ namespace Assgame
         {
 
             SQLiteCommand sqlite_cmd;
-            string Createsql = "CREATE TABLE SampleTable (Col1 VARCHAR(20), Col2 INT)";
-            string Createsql1 = "CREATE TABLE SampleTable1 (Col1 VARCHAR(20), Col2 INT)";
+            //string Createsql = "CREATE TABLE SampleTable (Col1 VARCHAR(20), Col2 INT)";
+            //string Createsql1 = "CREATE TABLE SampleTable1 (Col1 VARCHAR(20), Col2 INT)";
+            string Createsql1 = "CREATE TABLE GameBoard (PropertyID int(20), OwnerName VARCHAR (20), Property INT)";
             sqlite_cmd = conn.CreateCommand();
             sqlite_cmd.CommandText = Createsql;
             sqlite_cmd.ExecuteNonQuery();
